@@ -1,6 +1,6 @@
 {
   "name": "@stevieyu/nuxtjs-cookie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nuxt cookie",
   "main": "index.js",
   "scripts": {},
